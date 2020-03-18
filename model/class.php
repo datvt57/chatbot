@@ -6,6 +6,6 @@ function Text($_text){
 }
 }
 class Message {
-public $message;
+public $messages;
 }	
  ?>
